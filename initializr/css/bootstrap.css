@@ -12,6 +12,7 @@ html {
 }
 body {
   margin: 0;
+  background: linear-gradient(45deg , rgb(220, 50, 249), rgb(10, 99, 244));
 }
 article,
 aside,
